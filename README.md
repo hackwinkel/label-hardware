@@ -33,6 +33,6 @@ If you want to produce a four stencils in one go, you can use  the stencil_fabri
 As the board only contains SMD components on the front side, you have to specify that the PCB board house should make a stencil from the "front paste" Gerber file only
 
  
-## Reprogragramming in-circuit
+## Reprogramming in-circuit
 
 Reprogramming the processor through the 5 pin programming connection may not work as expected because of failure to calibrate the clock speed while in-circuit. You CAN reprogram the badge without clock-speed calibration by using easypdkprog with the --nocalibrate option.
