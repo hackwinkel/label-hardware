@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PADAUK)(type Legacy)(uri ${KIPRJMOD}/PADAUK.lib)(options "")(descr ""))
+)
