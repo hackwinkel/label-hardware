@@ -1,0 +1,27 @@
+Each badge contains the following components (with LCSC numbers where available)
+
+note: GENERIC parts can be freely interchanged with other parts of the same value
+note: it may be cheaper to order GENERIC parts from AliExpress - shipping of complete rolls of parts is generally cheaper via AliExpress than through LCSC
+
+
+1 * badge PCB - order from your favorite PCB board house
+
+40 * generic 0805 SMD leds - e.g. LCSC# C965815
+
+10 * generic 0805 220 Ohm resistor - e.g. LCSC# C2933537
+
+1 * generic 0805 1k Ohm resistor - e.g. LCSC# C3017842
+
+1 * generic 0805 100nF capacitor - e.g. LCSC# C476766
+
+1 * generic 1206 22 Ohm resistor - e.g. LCSC# C2907457
+
+1 * ZSIRM-Z5PK81 IR receiver - LCSC# C5337487
+	note: various pin compatibe alternatives exist
+	
+1 * XL-2835IR-T202 IR transmitter - LCSC# C5221243 
+	note: various pin compatibe alternatives exist
+
+1 * PFS154-S16 - LCSC# C317613
+
+1 * generic 5 pin 2.54mm pitch pin header - if you want to try in-circuit reprogramming

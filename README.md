@@ -24,6 +24,7 @@ This badge disproves these 3 hypotheses.
 4) A ZIP file containing the Gerber files for PCB fabrication.
 5) A director with stencil fabrication (Gerber) files, with 4 copies of the stencil (will fit on a single laser-cut stencil)
 6) A ZIP file containing the Gerber files for stencil fabrication.
+7) A parts list
 
 
 If you only want to produce PCBs, you should be able to upload the PCB_fabrication.zip file to your PCB board house directly.
